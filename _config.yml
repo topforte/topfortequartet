@@ -17,7 +17,7 @@ title: Top Forte Quartet
 email: topfortequartet@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Send us an email to get a quote!
-# baseurl: "topfortequartet" # the subpath of your site, e.g. /blog
+baseurl: "/topfortequartet" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
